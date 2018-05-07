@@ -1,1 +1,23 @@
-"# JAVA-" 
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+
+bin/
+
+# Eclipse
+.settings/
+.classpath
+.project
